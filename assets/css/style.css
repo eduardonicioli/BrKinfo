@@ -1,4 +1,7 @@
 
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -109,7 +112,7 @@ h6 {
 }
 
 #header .logo {
-  font-size: 30px;
+  font-size: 28px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -422,10 +425,6 @@ h6 {
   position: relative;
 }
 
-#hero .img{
-  background: transparent;
-}
-
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.6);
@@ -440,8 +439,6 @@ h6 {
   padding-top: 72px;
   position: relative;
   text-align: center;
-  
-
 }
 
 #hero h1 {
@@ -646,7 +643,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/call.jpg") fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/cta-bg.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
