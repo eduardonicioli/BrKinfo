@@ -441,6 +441,11 @@ h6 {
   text-align: center;
 }
 
+#hero img {
+  max-width: 100%;
+  width: 80rem;
+}
+
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 48px;
