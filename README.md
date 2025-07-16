@@ -1,4 +1,4 @@
-# 🌐 BrKinfo – Site Pessoal de Tecnologia
+# 🌐 BrKinfo – Site Pessoal de Suporte de Ti
 
 Bem-vindo ao **BrKinfo**, o site pessoal do Eduardo Nicioli, com foco em compartilhamento de conteúdo sobre tecnologia, desenvolvimento e curiosidades do mundo da TI. Esse projeto é uma vitrine do meu trabalho, ideal para quem busca aplicar boas práticas de web design e hospedagem gratuita.
 
@@ -23,18 +23,6 @@ O BrKinfo é um site estático responsivo, criado para:
 - **Sobre mim**, com informações pessoais e técnicas do autor.
 - **Contato**, com links para LinkedIn, GitHub e outros perfis.
 - Totalmente **responsivo**, adaptando-se bem a desktop, tablet e mobile.
-
----
-
-## 🖼️ Demonstração visual
-
-<p align="center">
-  <img src="./screenshots/homepage-desktop.png" alt="Homepage - desktop" width="300"/>
-  <img src="./screenshots/homepage-mobile.png" alt="Homepage - mobile" width="300"/>
-  <img src="./screenshots/artigos-lista.png" alt="Lista de artigos" width="300"/>
-</p>
-
-*Essas imagens podem estar na pasta `screenshots/` ou em qualquer outra de sua preferência.*
 
 ---
 
