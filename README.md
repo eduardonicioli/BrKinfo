@@ -2,7 +2,7 @@
 
 Bem-vindo ao **BrKinfo**, o site pessoal do Eduardo Nicioli, com foco em compartilhamento de conteúdo sobre tecnologia, desenvolvimento e curiosidades do mundo da TI. Esse projeto é uma vitrine do meu trabalho, ideal para quem busca aplicar boas práticas de web design e hospedagem gratuita.
 
-🔗 Acesse ao vivo em: **http://bradoke.serv00.net**
+🔗 Acesse ao vivo em: **http://brkinfo.serv00.net**
 
 ---
 
