@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   
      
     // Configure o destinatário e a mensagem do email
-    $recipient = "brkinfo@brkinfo.serv00.net";
+    $recipient = "brkinfo2004@gmail.com";
     $subject = "Nova mensagem de $name";
     $email_content = "Email: $email\n\n";
     $email_content = "$message\n";
