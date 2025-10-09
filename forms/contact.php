@@ -2,7 +2,7 @@
 
 // Configurações
 $recipient = "suporte@brkinfo.serv00.net"; // O endereço de e-mail de destino
-$default_subject_prefix = "Mensagem do Formulário de Contato | "; // Prefixo para o assunto
+$default_subject_prefix = "Assunto da mensagem | "; // Prefixo para o assunto
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
