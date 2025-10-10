@@ -1015,7 +1015,8 @@ section {
 }
 
 .pricing .box ol{
-  text-align: left;
+  text-align: justify;
+  font-size: 14px;
   margin: 0 auto;
   width: 50%;
 }
