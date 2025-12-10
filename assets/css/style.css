@@ -176,6 +176,7 @@ h6 {
   display: flex;
   list-style: none;
   align-items: center;
+  font-size: 16px;
 }
 
 .navbar li {
@@ -535,9 +536,14 @@ section {
 /*--------------------------------------------------------------
 # About Us
 --------------------------------------------------------------*/
-.about .content h3 {
+.about .section-title p{
   font-weight: 600;
-  font-size: 26px;
+  font-size: 16px;
+}
+
+.about .container {
+  font-weight: 500;
+  font-size: 16px;
 }
 
 .about .content ul {
@@ -570,7 +576,7 @@ section {
 .about .content .btn-learn-more {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 12px 32px;
@@ -612,6 +618,7 @@ section {
   margin-bottom: 20px;
   transition: ease-in-out 0.3s;
   color: #fff;
+  
 }
 
 .services .icon-box .icon i {
@@ -631,7 +638,7 @@ section {
 
 .services .icon-box p {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -661,6 +668,8 @@ section {
 
 .cta p {
   color: #fff;
+  font-weight: 600;
+  font-size: 16px;
 }
 
 .cta .cta-btn {
@@ -712,7 +721,7 @@ section {
 }
 
 .features .icon-box p {
-  font-size: 15px;
+  font-size: 16px;
   color: #848484;
   margin-left: 60px;
 }
@@ -798,7 +807,8 @@ section {
   padding: 0;
   margin: 0 0 20px 0;
   font-family: "Raleway", sans-serif;
-  font-size: 14px;
+  font-weight: 600;
+  font-size: 16px;
   color: #fff;
 }
 
@@ -823,8 +833,8 @@ section {
   cursor: pointer;
   display: inline-block;
   padding: 8px 16px 10px 16px;
-  font-size: 14px;
-  font-weight: 500;
+  font-size: 15px;
+  font-weight: 600;
   line-height: 1;
   color: #444444;
   margin: 0 3px 10px 3px;
@@ -978,6 +988,15 @@ section {
   background-color: #f9f9f9;
 }
 
+.pricing .container p {
+  font-size: 16px;
+}
+
+.pricing .container .row p   {
+  font-weight: 100;
+  font-size: 16px;
+}
+
 .pricing .box {
   padding: 40px 20px;
   text-align: center;
@@ -992,17 +1011,9 @@ section {
   font-weight: 400;
   padding: 15px;
   margin-top: 15px;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
   color: #282828;
-}
-
-.pricing .box h4 {
-  font-size: 42px;
-  color: #009961;
-  font-weight: 500;
-  font-family: "Open Sans", sans-serif;
-  margin-bottom: 20px;
 }
 
 .pricing .box ul {
@@ -1023,6 +1034,12 @@ section {
 
 .pricing .box ul li {
   padding-bottom: 12px;
+  font-size: 16px;
+}
+
+.pricing .box ol li {
+  padding-bottom: 12px;
+  font-size: 16px;
 }
 
 .pricing .box ul i {
@@ -1175,7 +1192,7 @@ section {
 .contact .php-email-form textarea {
   border-radius: 0;
   box-shadow: none;
-  font-size: 14px;
+  font-size: 16px;
   border-radius: 4px;
 }
 
@@ -1195,6 +1212,8 @@ section {
 .contact .php-email-form button[type=submit] {
   background: #009961;
   border: 0;
+  font-weight: 600px;
+  font-size: 16px;
   padding: 10px 30px;
   color: #fff;
   transition: 0.4s;
@@ -1278,7 +1297,7 @@ section {
 }
 
 #footer p {
-  font-size: 15;
+  font-size: 18px;
   font-style: italic;
   padding: 0;
   margin: 0 0 40px 0;
@@ -1314,7 +1333,7 @@ section {
 }
 
 #footer .credits {
-  font-size: 13px;
+  font-size: 15px;
 }
 
 #footer .credits a {
